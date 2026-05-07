@@ -1,0 +1,52 @@
+# Geotechnique — Colombes
+
+> Geotechnical engineering services in Colombes, France.
+
+## Services
+- [Amelioration Sols](https://colombes.geotechnique.biz/amelioration-sols/)
+- [Ancrages](https://colombes.geotechnique.biz/ancrages/)
+- [Cbr Routier](https://colombes.geotechnique.biz/cbr-routier/)
+- [Chaussee Rigide](https://colombes.geotechnique.biz/chaussee-rigide/)
+- [Chaussee Souple](https://colombes.geotechnique.biz/chaussee-souple/)
+- [Colonnes Ballastees](https://colombes.geotechnique.biz/colonnes-ballastees/)
+- [Confidentialite](https://colombes.geotechnique.biz/confidentialite/)
+- [Densite Cone Sable](https://colombes.geotechnique.biz/densite-cone-sable/)
+- [Essai Cpt](https://colombes.geotechnique.biz/essai-cpt/)
+- [Essais Proctor](https://colombes.geotechnique.biz/essais-proctor/)
+- [Excavations](https://colombes.geotechnique.biz/excavations/)
+- [Excavations Profondes](https://colombes.geotechnique.biz/excavations-profondes/)
+- [Fondations](https://colombes.geotechnique.biz/fondations/)
+- [Geotechnique Routiere](https://colombes.geotechnique.biz/geotechnique-routiere/)
+- [Granulometrie](https://colombes.geotechnique.biz/granulometrie/)
+- [Injections](https://colombes.geotechnique.biz/injections/)
+- [Investigation](https://colombes.geotechnique.biz/investigation/)
+- [Isolation Sismique](https://colombes.geotechnique.biz/isolation-sismique/)
+- [Labo In Situ](https://colombes.geotechnique.biz/labo-in-situ/)
+- [Laboratoire](https://colombes.geotechnique.biz/laboratoire/)
+- [Limites Atterberg](https://colombes.geotechnique.biz/limites-atterberg/)
+- [Liquefaction](https://colombes.geotechnique.biz/liquefaction/)
+- [Masw](https://colombes.geotechnique.biz/masw/)
+- [Microzonage Sismique](https://colombes.geotechnique.biz/microzonage-sismique/)
+- [Murs Soutenement](https://colombes.geotechnique.biz/murs-soutenement/)
+- [Permeabilite In Situ](https://colombes.geotechnique.biz/permeabilite-in-situ/)
+- [Pieux](https://colombes.geotechnique.biz/pieux/)
+- [Puits Inspection](https://colombes.geotechnique.biz/puits-inspection/)
+- [Radiers](https://colombes.geotechnique.biz/radiers/)
+- [Refraction Sismique](https://colombes.geotechnique.biz/refraction-sismique/)
+- [Resistivite](https://colombes.geotechnique.biz/resistivite/)
+- [Semelles](https://colombes.geotechnique.biz/semelles/)
+- [Sismique](https://colombes.geotechnique.biz/sismique/)
+- [Sondages Spt](https://colombes.geotechnique.biz/sondages-spt/)
+- [Stabilite Talus](https://colombes.geotechnique.biz/stabilite-talus/)
+- [Surveillance Excavations](https://colombes.geotechnique.biz/surveillance-excavations/)
+- [Talus](https://colombes.geotechnique.biz/talus/)
+- [Triaxial](https://colombes.geotechnique.biz/triaxial/)
+- [Tunnels Sol Mou](https://colombes.geotechnique.biz/tunnels-sol-mou/)
+- [Vibrocompactage](https://colombes.geotechnique.biz/vibrocompactage/)
+
+## Contact
+- Website: https://colombes.geotechnique.biz/
+
+## About
+This site provides geotechnical engineering services in Colombes, France.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
